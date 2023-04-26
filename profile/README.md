@@ -1,8 +1,13 @@
 # 테라폼으로 시작하는 IaC
 
+> [HashiCorp Homepage](https://www.hashicorp.com/)  
+> [Terraform Homepage](https://www.terraform.io/)  
+> [Terraform Registry](https://registry.terraform.io/)  
+> [Terraform Developer](https://developer.hashicorp.com/terraform)
+
 ## 책 소개
 
-깃허브GitHub에서 2021~2022년, 가장 빠르게 성장하는 언어로 측정된 HCL(HashiCorp Configuration Language, 56.1% 성장)은 테라폼의 인기와 더불어 인프라 자동화를 위한 IaC에 대한 관심을 반영한다. 이 책에서는 테라폼의 본질을 이해하고 문법을 익히는 것으로 시작한다. 뒤이어 사용자 간 협업, 팀 간 협업, 조직 규모에서의 사용을 다룬다. 각 장의 구성은 상향식 접근 방법을 통해 테라폼을 사용하는 역량을 기르는 것을 목표로 한다.
+> 깃허브GitHub에서 2021~2022년, 가장 빠르게 성장하는 언어로 측정된 HCL(HashiCorp Configuration Language, 56.1% 성장)은 테라폼의 인기와 더불어 인프라 자동화를 위한 IaC에 대한 관심을 반영한다. 이 책에서는 테라폼의 본질을 이해하고 문법을 익히는 것으로 시작한다. 뒤이어 사용자 간 협업, 팀 간 협업, 조직 규모에서의 사용을 다룬다. 각 장의 구성은 상향식 접근 방법을 통해 테라폼을 사용하는 역량을 기르는 것을 목표로 한다.
 
 ## 책 구성과 깃허브 레포 안내
 
@@ -35,6 +40,8 @@ State는 테라폼에서 가장 중요한 개념이다. 테라폼의 Stateful(�
 코드의 재사용성을 높여주는 모듈의 의미를 이해하고, 모듈의 구조적 특성을 파악하여 향후 설계단계에서의 기준을 확인한다.
 
 - [terraform-module-repo](https://github.com/terraform101/terraform-module-repo)
+
+<br>
 
 ### 2부
 
