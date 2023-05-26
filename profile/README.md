@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="360" src="./terraform_cover.jpg">
+  <img width="360" src="https://github.com/terraform101/.github/blob/main/profile/terraform_cover.jpg">
 </p>
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/terraform.svg" /> <img height="32" width="32" src="https://freesvg.org/img/Infinity-Symbol.png" /> <img height="32" width="32" src="https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/256/external-Code-database-and-data-technology-smashingstocks-mixed-smashing-stocks.png" />
