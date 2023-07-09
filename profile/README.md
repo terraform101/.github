@@ -9,7 +9,12 @@
 > [HashiCorp Homepage](https://www.hashicorp.com/)  
 > [Terraform Homepage](https://www.terraform.io/)  
 > [Terraform Registry](https://registry.terraform.io/)  
-> [Terraform Developer](https://developer.hashicorp.com/terraform)
+> [Terraform Developer](https://developer.hashicorp.com/terraform)  
+
+## 부록
+
+> [함수 추가 설명(부록) 영상](https://www.youtube.com/watch?v=ejAwCK-gr0U&list=PLQUXE_kb6KOjUdhva880Ve2z51IzU1MYX&pp=gAQBiAQB)
+
 
 ## 책 소개
 
