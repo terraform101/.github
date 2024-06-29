@@ -72,6 +72,7 @@ State는 테라폼에서 가장 중요한 개념이다. 테라폼의 Stateful(�
 
 - [terraform-aws-github-action](https://github.com/terraform101/terraform-aws-github-action)
 - [terraform-aws-tfc-workflow](https://github.com/terraform101/terraform-aws-tfc-workflow)
+- [terraform-aws-ec2-test-module](https://github.com/terraform101/terraform-aws-ec2-test-module)
 
 #### 9장. 인프라 운영 및 관리
 
