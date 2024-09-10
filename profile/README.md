@@ -11,6 +11,14 @@
 > [Terraform Registry](https://registry.terraform.io/)  
 > [Terraform Developer](https://developer.hashicorp.com/terraform)  
 
+## 구매 링크
+
+- 출판사 : https://www.hanbit.co.kr/store/books/look.php?p_code=B6618817281
+- 교보문고 : https://product.kyobobook.co.kr/detail/S000214212042
+- 예스24 : https://www.yes24.com/Product/Goods/133218136
+- 알라딘 : https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=346369474
+
+
 ## 부록
 
 > [함수 추가 설명(부록) 영상](https://www.youtube.com/watch?v=ejAwCK-gr0U&list=PLQUXE_kb6KOjUdhva880Ve2z51IzU1MYX&pp=gAQBiAQB)
